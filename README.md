@@ -4,28 +4,7 @@ This project is a solution to one of the problems from the **Quera CodeCup 7 –
 
 ---
 
-##  Objective
-
-Analyze a dataset of words (provided in a CSV file) to extract specific statistical and structural insights.
-
----
-
-##  Tools and Technologies
-
-- Python 3
-- pandas
-- collections (Counter)
-
----
-
-##  Dataset
-
-- Input: `words.csv`  
-- Structure: A single-column CSV file with one word per row under the column name `words`.
-
----
-
-##  Tasks Performed
+##  Tasks
 
 1. **Count the Most Frequent Words**  
    - Combined all words and used `Counter` to find the **top 5 most frequent** words in the dataset.
